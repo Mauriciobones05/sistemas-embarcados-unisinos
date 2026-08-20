@@ -1,2 +1,2 @@
-# se-2026-02
+# sistemas-embarcados-unisinos
 Repositório para projetos de sistemas embarcados Unisinos
