@@ -1,0 +1,28 @@
+# Build directories and generated CMake files
+build/
+**/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.ninja
+.ninja_deps
+.ninja_log
+
+# Firmware and linker output
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.su
+*.o
+*.obj
+
+# Local VS Code configuration
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
